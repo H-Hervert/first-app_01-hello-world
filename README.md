@@ -26,6 +26,3 @@ This should be done in the root folder of your project.
 
 Make sure you have Node.js and Angular CLI installed globally on your machine.
 The Angular app is an Angular 2+ application, and it's assumed you have Angular CLI installed to use commands like ng serve.
-
-## References
-https://angular.dev/tutorials/first-app
